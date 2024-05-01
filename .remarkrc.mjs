@@ -29,7 +29,8 @@ const remarkConfig = {
 					"https://cardinalcommerce.com/",
 					"https://www.cyberciti.biz",
 					"https://eat.magento.com",
-					"https://developer.ups.com/oauth-developer-guide"
+					"https://developer.ups.com/oauth-developer-guide",
+					"https://github.com/magento/partners-magento2ee"
 				],
 				skipOffline: "true"
 			}

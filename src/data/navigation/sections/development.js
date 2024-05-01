@@ -35,35 +35,35 @@ module.exports = [
           pages: [
             {
               title: "2.4.7",
-              path: "/development/release-notes/2-4-7/",
+              path: "/development/release-notes/open-source/2-4-7/",
             },
             {
               title: "2.4.6",
-              path: "/development/release-notes/2-4-6/",
+              path: "/development/release-notes/open-source/2-4-6/",
             },
             {
               title: "2.4.5",
-              path: "/development/release-notes/2-4-5/",
+              path: "/development/release-notes/open-source/2-4-5/",
             },
             {
               title: "2.4.4",
-              path: "/development/release-notes/2-4-4/",
+              path: "/development/release-notes/open-source/2-4-4/",
             },
             {
               title: "2.4.3",
-              path: "/development/release-notes/2-4-3/",
+              path: "/development/release-notes/open-source/2-4-3/",
             },
             {
               title: "2.4.2",
-              path: "/development/release-notes/2-4-2/",
+              path: "/development/release-notes/open-source/2-4-2/",
             },
             {
               title: "2.4.1",
-              path: "/development/release-notes/2-4-1/",
+              path: "/development/release-notes/open-source/2-4-1/",
             },
             {
               title: "2.4.0",
-              path: "/development/release-notes/2-4-0/",
+              path: "/development/release-notes/open-source/2-4-0/",
             },
           ],
         },

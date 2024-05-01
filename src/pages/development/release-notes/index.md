@@ -9,8 +9,8 @@ Learn about the latest improvements in the Magento Open Source codebase, includi
 
 <InlineAlert variant="info" slots="text"/>
 
-Go to [Experience League](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview) to learn about Adobe Commerce product releases and security patches.
+Go to [Experience League](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview) to learn about Adobe Commerce product releases and security patches. Security patches also apply to Magento Open Source.
 
-import Bic from 'src/_includes/development/backward-incompatible-changes/note.md'
+import Bic from '/src/_includes/backward-incompatible-changes/note.md'
 
 <Bic/>
